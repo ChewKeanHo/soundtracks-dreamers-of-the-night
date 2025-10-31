@@ -1,21 +1,30 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Dreamers of The Night | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+I'm just curious and want to wipe 1 more wish list of my bucket: make a
+dance song. To combine all that I learnt, let's make a decent length
+vocal music just for the fun. Yeah, I do love club dance songs since young.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #dance #party #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Dreamers-of-the-Night.mp3
+  Size: 8660992         Blocks: 16920      IO Block: 4096   regular file
+Access: 2025-10-31 15:38:08.355875964 +0800
+Modify: 2025-10-31 15:38:08.559876670 +0800
+Change: 2025-10-31 15:38:08.563876684 +0800
+ Birth: 2025-07-20 11:53:28.154210082 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-05-11
+On YouTube since : 2025-05-16
 ```
 
-[YouTube](#) |
+[YouTube](https://www.youtube.com/watch?v=H_L5vAFcEwg) |
 [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf) |
-[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf) |
+[Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf) |
+[Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
 
 
 
@@ -36,9 +45,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Dreamers of The Night
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-dreamers-of-the-night
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------

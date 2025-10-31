@@ -1,27 +1,29 @@
 TITLE
-🎧 | [MUSIC TITLE HERE]
+🎧 | Dreamers of The Night
 
 
 
 
 DESCRIPTION
-[DESCRIPTION HERE THAT CAN BE POSTED ON SOCIAL MEDIA]
+I'm just curious and want to wipe 1 more wish list of my bucket: make a dance song. To combine all that I learnt, let's make a decent length vocal music just for the fun. Yeah, I do love club dance songs since young.
 
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #dance #party #femalevocal
 
 
 § COLLECTIONS
 ━━━━━━━━━━━━
-Album Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
-Genre Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
+Album Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAgFoYn4qK1bmSIcl6ptklfc
+Genre Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAjlFJMmnpXUO6EWpG8b5ety
 
 
 § METADATA
 ━━━━━━━━━━
 Music made in: https://www.udio.com/
+Video made in: https://vizzy.io/
 Project by: (Holloway) Chew, Kean Ho
+Lyrics by: (Holloway) Chew, Kean Ho + AI translation assistance
 Music License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
-Repository: [REPOSITORY_HERE]
+Repository: https://github.com/ChewKeanHo/soundtracks-dreamers-of-the-night
 
 
 § FAQ
@@ -64,4 +66,4 @@ I just see A.I. is the next step forward and I want it to augment me; not resist
 
 
 TAGS
-electronicmusic, soundtrack
+electronicmusic, dancemusic, partymusic, party, female vocalist, background music, soundtrack, music
