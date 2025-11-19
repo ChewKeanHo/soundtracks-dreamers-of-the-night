@@ -2,18 +2,18 @@
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-I'm just curious and want to wipe 1 more wish list of my bucket: make a
-dance song. To combine all that I learnt, let's make a decent length
-vocal music just for the fun. Yeah, I do love club dance songs since young.
+I'm just curious and want to wipe 1 more wish list of my bucket: make a dance
+song. To combine all that I learnt, let's make a decent length vocal music just
+for the fun. Yeah, I do love club dance songs since young.
 
 ```
 #electronicmusic #soundtrack #dance #party #femalevocal
 
-  File: Audios/Dreamers-of-the-Night.mp3
+  File: Audios/01_Dreamers-of-the-Night.mp3
   Size: 8660992         Blocks: 16920      IO Block: 4096   regular file
-Access: 2025-10-31 15:38:08.355875964 +0800
-Modify: 2025-10-31 15:38:08.559876670 +0800
-Change: 2025-10-31 15:38:08.563876684 +0800
+Access: 2025-11-20 05:57:08.207877398 +0800
+Modify: 2025-11-03 06:26:45.094511805 +0800
+Change: 2025-11-20 05:57:22.079938138 +0800
  Birth: 2025-07-20 11:53:28.154210082 +0800
 
 On Published Date: 2025-05-11
@@ -33,6 +33,7 @@ On YouTube since : 2025-05-16
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
 * [Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf)
 * [Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -53,11 +54,15 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Dreamers of The Night
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-dreamers-of-the-night
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Dreamers of The Night
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-dreamers-of-the-night
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-10-29 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Video made in: https://vizzy.io/
+Procure: https://github.com/ChewKeanHo/soundtracks-dreamers-of-the-night
 --------------------------------------------------------------------------------
 ```
 
